@@ -133,10 +133,18 @@ if (number >= 2) {
 // -- it is, so we set colorOne and colorTwo to 'purple'
 
 /*
+// colorOne should be blue
 let colorOne = 'red';
+// colorTwo should be red
 let colorTwo = 'blue';
 let mix = true;
 
+// in this instance colorTwo is not set to any data
+// should be 
+if (mix === true) {
+   colorOne = 'purple';
+   colorTwo = 'Purple';
+}
 if (mix === true) {
   colorOne = 'purple';
 }
@@ -149,6 +157,8 @@ if (mix === true) {
 /*
 let temp = 40;
 const time = 4;
+
+// the and logic is && and not ||
 
 if (temp > 39 || time >= 4) {
   console.log('throw away the food!');
