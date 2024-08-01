@@ -26,10 +26,10 @@ if (number >= 2) {
 
 
 // 1. WRITE YOUR DESCRIPTION HERE
-// 
-// 
-// 
-//
+// we make a variable name and set it to a string called Dane.
+// we check if name is equals to Mary, if it were it would console.log "Hi Mary"
+// if else it will console.log "How do you do"
+
 
 //CODE
 /*
@@ -45,10 +45,10 @@ if (name === 'Mary') {
 */
 
 // 2. WRITE YOUR DESCRIPTION HERE
-// 
-// 
-// 
-//
+// we name a variable secret and set it to nothing
+// we name a variable called Code and set it to 123 as a number
+// we check if code is equals to 123, secret is equals to 'super', and Code is equal code times 2 
+// we check if code is greater than 250 and secret is equal to 'duper' then we console.log secret
 
 //CODE
 /*
