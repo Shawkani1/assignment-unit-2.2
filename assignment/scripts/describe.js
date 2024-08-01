@@ -159,6 +159,7 @@ let temp = 40;
 const time = 4;
 
 // the and logic is && and not ||
+so we should've used &&.
 
 if (temp > 39 || time >= 4) {
   console.log('throw away the food!');
@@ -172,6 +173,8 @@ if (temp > 39 || time >= 4) {
 /*
 let age = 21;
 const minAge = 21;
+
+// i believe this code is correct
 
 if(minAge <= age) {
   console.log('no entry');
